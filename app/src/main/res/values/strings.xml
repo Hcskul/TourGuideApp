@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="category_bars">Bars</string>
+    <string name="category_restaurants">Eat</string>
+    <string name="category_highlights">Highlight</string>
+    <string name="category_Culture">Culture</string>
+    <string name="leos_name">Leo\'s Brasserie</string>
+    <string name="leos_location">Reichsstraße 20 \n04109 Leipzig</string>
+    <string name="leos_telephone">0341 1492073</string>
+    <string name="leos_open">14:00-1:00</string>
+    <string name="kildare_name">Kildare City Pub</string>
+    <string name="kildare_location">Barfußgäßchen 5-7 \n04109 Leipzig</string>
+    <string name="kildare_telephone">0341 9839740</string>
+    <string name="kildare_open">12:00-2:00</string>
+    <string name="sakura_name">Sakura Kaiten</string>
+    <string name="sakura_location">Bosestraße 4 \n 04109 Leipzig</string>
+    <string name="sakura_telephone">0341 9628517</string>
+    <string name="sakura_open">18:00-0:00</string>
+    <string name="bar_name">Barfusz</string>
+    <string name="bar_location">Markt 9 \n 04109 Leipzig</string>
+    <string name="bar_telephone">0341 9628624</string>
+    <string name="bar_open">9:00-2:00</string>
+    <string name="voelki_name">Völkerschlacht- \ndenkmal</string>
+    <string name="voelki_location">Str. des 18. Oktober \n100 04299 Leipzig</string>
+    <string name="voelki_telephone">0341 2416870</string>
+    <string name="voelki_open">10:00-18:00</string>
+    <string name="mdr_name">Panorama Tower</string>
+    <string name="mdr_location">Augustusplatz 9 \n04109 Leipzig</string>
+    <string name="mdr_telephone">0341 7100590</string>
+    <string name="mdr_open">11:30-0:00</string>
+    <string name="oper_name">Opernhaus Leipzig</string>
+    <string name="oper_location">Augustusplatz 12 \n04109 Leipzig</string>
+    <string name="oper_telephone">0341 1261261</string>
+    <string name="gewand_name">Gewandhaus</string>
+    <string name="gewand_location">Augustusplatz 8 \n04109 Leipzig</string>
+    <string name="gewand_telephone">0341 1270280</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

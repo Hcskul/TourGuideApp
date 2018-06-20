@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorAccent">#81D4FA</color>
+    <color name="tan_background">#FFF7DA</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="category_bars">#1B5E20</color>
+    <color name="category_restaurants">#01579B</color>
+    <color name="category_highlights">#3E2723</color>
+    <color name="category_culture">#827717</color>
+</resources>
