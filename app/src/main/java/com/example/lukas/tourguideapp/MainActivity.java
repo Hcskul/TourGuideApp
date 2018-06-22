@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
 
         TabLayout tabLayout = findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(viewPager);
+
+        getSupportActionBar().setElevation(0);
     }
 
 
